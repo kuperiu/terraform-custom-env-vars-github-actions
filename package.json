@@ -1,0 +1,22 @@
+{
+  "name": "terraform-custom-env-vars-github-actions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuperiu/terraform-custom-env-vars-github-actions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuperiu/terraform-custom-env-vars-github-actions/issues"
+  },
+  "homepage": "https://github.com/kuperiu/terraform-custom-env-vars-github-actions#readme",
+  "dependencies": {
+    "@actions/core": "^1.2.4"
+  }
+}
